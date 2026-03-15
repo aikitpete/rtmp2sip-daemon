@@ -1,0 +1,19 @@
+# cpp
+build/
+out/
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+CMakeFiles/
+CMakeCache.txt
+compile_commands.json
+
+# common
+.git/
+.DS_Store
+.idea/
+.vscode/
+*.iml
