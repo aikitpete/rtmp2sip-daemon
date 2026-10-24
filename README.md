@@ -1,5 +1,7 @@
 # rtmp2sip-daemon
 
+> **Status:** historical prototype, not maintained. Contains third-party code under its own licence (see NOTICE.md).
+
 A C++ prototype for bridging RTMP video streams into SIP-based communication flows.
 
 ## What this repo contains
@@ -16,9 +18,5 @@ The project explores real-time media interoperability: taking a stream in one pr
 - real-time media / streaming concepts
 - SIP / RTMP interoperability
 
-## Why it matters
-It shows work beyond CRUD apps:
-- media pipelines,
-- protocol boundaries,
-- daemon/service architecture,
-- performance-sensitive backend code.
+## Origin
+A university-era prototype. Parts of the code (RTMP implementation, MD5) were written by other authors and carry their own licences, see [NOTICE.md](NOTICE.md).
