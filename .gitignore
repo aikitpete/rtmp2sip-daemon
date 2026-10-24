@@ -17,3 +17,13 @@ compile_commands.json
 .idea/
 .vscode/
 *.iml
+.svn/
+target/
+*.bak
+*.class
+*.log
+nbproject/private/
+*.sdf
+*.ilk
+*.pdb
+*.suo
