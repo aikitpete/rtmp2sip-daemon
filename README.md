@@ -1,6 +1,6 @@
 # rtmp2sip-daemon
 
-> **Status:** historical prototype, not maintained. Contains third-party code under its own licence (see NOTICE.md).
+> **Status:** historical prototype, not maintained. Contains third-party code under its own licence (see NOTICE.md; the repository is distributed under GPL-3.0).
 
 A C++ prototype for bridging RTMP video streams into SIP-based communication flows.
 
