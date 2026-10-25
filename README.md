@@ -1,5 +1,7 @@
 # rtmp2sip-daemon
 
+[![License](https://img.shields.io/github/license/aikitpete/rtmp2sip-daemon)](LICENSE) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white) ![SIP / RTMP](https://img.shields.io/badge/SIP%20/%20RTMP-4B5563) ![Status](https://img.shields.io/badge/status-archived-lightgrey)
+
 > **Status:** historical prototype, not maintained. Contains third-party code under its own licence (see NOTICE.md; the repository is distributed under GPL-3.0).
 
 A C++ prototype for bridging RTMP video streams into SIP-based communication flows.
